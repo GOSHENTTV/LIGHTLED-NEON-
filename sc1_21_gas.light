@@ -3,9 +3,9 @@ Version 165 30
 	Attribute
 	{
 		Position -24.91281000 -2.65454100 4.15939300
-		Color 255 15 15
+		Color 255 20 147
 		Flashiness 0
-		Intensity 0.50000000
+		Intensity 50.00000000
 		Flags 8192
 		BoneTag 0
 		LightType 1
@@ -39,9 +39,9 @@ Version 165 30
 	Attribute
 	{
 		Position -26.44220000 -2.65454100 4.15939300
-		Color 255 15 15
+		Color 138 43 226
 		Flashiness 0
-		Intensity 0.50000000
+		Intensity 50.00000000
 		Flags 8192
 		BoneTag 0
 		LightType 1
@@ -75,9 +75,9 @@ Version 165 30
 	Attribute
 	{
 		Position -16.02826000 1.57153300 0.09542847
-		Color 255 15 15
+		Color 255 127 80
 		Flashiness 0
-		Intensity 0.40000000
+		Intensity 50.00000000
 		Flags 8192
 		BoneTag 0
 		LightType 1
@@ -111,9 +111,9 @@ Version 165 30
 	Attribute
 	{
 		Position -3.29202300 -19.15796000 0.09542847
-		Color 255 15 15
+		Color 0 250 154
 		Flashiness 0
-		Intensity 0.40000000
+		Intensity 50.00000000
 		Flags 8192
 		BoneTag 0
 		LightType 1
@@ -147,9 +147,9 @@ Version 165 30
 	Attribute
 	{
 		Position 11.38659000 12.37329000 4.23915100
-		Color 255 15 15
+		Color 32 178 170
 		Flashiness 0
-		Intensity 0.60000000
+		Intensity 50.00000000
 		Flags 0
 		BoneTag 0
 		LightType 1
@@ -183,9 +183,9 @@ Version 165 30
 	Attribute
 	{
 		Position 13.10978000 -6.19238300 -1.26571700
-		Color 148 182 252
+		Color 255 99 71
 		Flashiness 0
-		Intensity 0.70000000
+		Intensity 50.00000000
 		Flags 8192
 		BoneTag 0
 		LightType 1
@@ -219,9 +219,9 @@ Version 165 30
 	Attribute
 	{
 		Position 3.37923400 -11.71558000 0.55994800
-		Color 255 255 255
+		Color 218 112 214
 		Flashiness 0
-		Intensity 20.00000000
+		Intensity 50.00000000
 		Flags 0
 		BoneTag 0
 		LightType 2
@@ -255,9 +255,9 @@ Version 165 30
 	Attribute
 	{
 		Position -4.75699600 -8.81103500 0.55996700
-		Color 255 255 255
+		Color 154 205 50
 		Flashiness 0
-		Intensity 20.00000000
+		Intensity 50.00000000
 		Flags 0
 		BoneTag 0
 		LightType 2
@@ -291,9 +291,9 @@ Version 165 30
 	Attribute
 	{
 		Position -0.17803960 -10.42090000 0.55996700
-		Color 255 255 255
+		Color 255 69 0
 		Flashiness 0
-		Intensity 20.00000000
+		Intensity 50.00000000
 		Flags 0
 		BoneTag 0
 		LightType 2
@@ -327,9 +327,9 @@ Version 165 30
 	Attribute
 	{
 		Position -8.51229100 -7.54980500 0.55997850
-		Color 255 255 255
+		Color 127 255 212
 		Flashiness 0
-		Intensity 20.00000000
+		Intensity 50.00000000
 		Flags 0
 		BoneTag 0
 		LightType 2
@@ -363,9 +363,9 @@ Version 165 30
 	Attribute
 	{
 		Position -13.02328000 -5.90966800 0.55997470
-		Color 255 255 255
+		Color 173 255 47
 		Flashiness 0
-		Intensity 20.00000000
+		Intensity 50.00000000
 		Flags 0
 		BoneTag 0
 		LightType 2
@@ -399,9 +399,9 @@ Version 165 30
 	Attribute
 	{
 		Position -16.62106000 -4.59423800 0.55991740
-		Color 255 255 255
+		Color 255 255 224
 		Flashiness 0
-		Intensity 20.00000000
+		Intensity 50.00000000
 		Flags 0
 		BoneTag 0
 		LightType 2
